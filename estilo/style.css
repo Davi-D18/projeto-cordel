@@ -14,6 +14,7 @@
 body {
     background-color: rgb(106, 106, 106);
     height: 100vh;
+    margin: auto;
 }
 
 header {
