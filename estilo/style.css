@@ -15,6 +15,7 @@ body {
     background-color: rgb(106, 106, 106);
     height: 100vh;
     margin: auto;
+    cursor: url(../imagens/cursor01.png), auto;
 }
 
 header {
